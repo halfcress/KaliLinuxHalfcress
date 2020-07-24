@@ -1,0 +1,6 @@
+#1. Adım : https://get.adobe.com/flashplayer/ - tar.gz uzantılı dosyayı indiriyoruz
+#2. Adım : dosyayı indirdiğimiz dizinde, tar dosyasını arşivden çıkarma işlemi yapıyoruz.
+#3. Adım : içerisindeki libflashplayer.so dosyasını aşağıdaki komutu " Dizinde terminal açarak" taşıma işlemi yapıyoruz:
+
+# sudo mv libflashplayer.so /usr/lib/mozilla/plugins/
+#işlem tamam tarayıcımızı açabiliriz.

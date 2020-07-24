@@ -4,3 +4,11 @@
 
 # sudo mv libflashplayer.so /usr/lib/mozilla/plugins/
 #işlem tamam tarayıcımızı açabiliriz.
+
+#Step 1 : https://get.adobe.com/flashplayer/ - download the file with the tar.gz extension
+#Step 2 : In the directory where we download the file, we are extracting the tar file from the archive.
+#Step 3 : we will move the libflashplayer.so file. We open a terminal in the Downloads directory and type:
+
+# sudo mv libflashplayer.so /usr/lib/mozilla/plugins/
+# Done. We can open browser now.
+

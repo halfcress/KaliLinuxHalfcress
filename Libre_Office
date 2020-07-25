@@ -1,0 +1,3 @@
+# .deb uzantılı dosya indirilir. (Kendi sitesi üzerinden)
+# tar -xf Libre... komutu ile dosya çıkartılır (Downloads üzerinde terminal açılacak)
+# çıkartılan dizinde DEBS klasörü içerisinde terminal açılır. Şu komut girilir : " sudo dpkg -i *.deb " 
